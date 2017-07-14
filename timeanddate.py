@@ -1,4 +1,4 @@
 import datetime
-now =datetime.datetime.now()
+current =datetime.datetime.now()
 print ("Current date and time : ")
-print now
+print current
